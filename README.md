@@ -79,7 +79,9 @@ Sarah
 - Using a definite opening and closure.
 - Ensuring contractions/abbreviations are used sparingly.
 
-<img src=":/66e190cab62140f6aebbe2f948a54e98" alt="3699ac45025a44cb8a36a6e56eb4719c.png" width="641" height="352" class="jop-noMdConv">
+
+![image](https://user-images.githubusercontent.com/78650734/216821331-aa527719-adc0-4fca-8f64-a8689d42e36e.png)
+
 
 some formal words
 
@@ -141,7 +143,7 @@ Example
 
 Unpolite
 
-![bd8d92ef31e8e65d4713e154b642291f.png](:/9f2007ceb70b4a60a993bf94b0c94917)
+![image](https://user-images.githubusercontent.com/78650734/216821380-f8e164fe-b8c5-45ac-9541-a52ca2a50170.png)
 
 * * *
 
@@ -201,7 +203,8 @@ Instead of saying, 'I can't come on Wednesday', Native speakers may say, 'Monday
 
 * * *
 
-<img src=":/d2e63bebc9414a6ba4953acdf6c9e04f" alt="6dd43cc813afce803bc5b35ff3458ecc.png" width="578" height="335" class="jop-noMdConv">
+![image](https://user-images.githubusercontent.com/78650734/216821399-f6bcecaf-5a4f-401a-9bc6-6ac83eff077a.png)
+
 
 * * *
 
@@ -212,7 +215,7 @@ Be positive!
 
 * * *
 
-<img src=":/a9ba656c55c14a6e97576453b92c9f0f" alt="b4a4c29ebb55d5fdca10900e60538eab.png" width="577" height="400" class="jop-noMdConv">
+![image](https://user-images.githubusercontent.com/78650734/216821408-a06b938c-b383-4206-961c-a261e44eacfa.png)
 
 * * *
 
